@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/yotamon"><img src="https://api.daily.dev/devcards/v2/b68eaa3e4fc64cf0bea3fa448d904225.png?type=wide&r=f36" width="652" alt="Yotam Faraggi's Dev Card"/></a>
+
 <!--
 **yotamcuralife/yotamcuralife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
